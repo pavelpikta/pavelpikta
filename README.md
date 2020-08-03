@@ -1,12 +1,17 @@
-<h1 align='center'>
+<h2>
   Hi there 👋 I'm Pavel 👨‍💻
-</h1>
+</h2>
 
-<p align='center'>
+<p>
   A Systems Engineer from Grodno, Belarus.
+
+  A member and contributor of @lean-delivery organization
 </p>
 
-<p align='center'>
+<h2>
+  My Social Links:
+</h2>
+<p>
 
   <a href="https://www.linkedin.com/in/pavelpikta/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -30,9 +35,10 @@
 
 </p>
 
-## My GitHub Stats
-
-<p align = "center">
+<h2>
+  My GitHub Stats:
+</h2>
+<p>
   <img src = "https://github-readme-stats.vercel.app/api?username=pavelpikta&show_icons=true&theme=dracula&line_height=30">
-  <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pavelpikta&hide=css,html&theme=tokyonight"> -->
+  <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pavelpikta&theme=tokyonight"> -->
 </p>
