@@ -9,6 +9,57 @@
 </p>
 
 <h2>
+  Specialize in:
+</h2>
+<p>
+
+  <a>
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
+  </a>&nbsp;
+  
+  <a>
+    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+  </a>&nbsp;
+  
+  <a>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  </a>&nbsp;
+
+  <a>
+    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  </a>&nbsp;
+  
+  <a>
+    <img src="https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)"/>
+  </a>&nbsp;
+
+  <a>
+    <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white"/>
+  </a>&nbsp;
+</p>
+<p>
+  <a>
+    <img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  </a>&nbsp;
+
+  <a>
+    <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
+  </a>&nbsp;
+
+  <a>
+    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
+  </a>&nbsp;
+
+  <a>
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  </a>&nbsp;
+
+  <a>
+    <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
+  </a>&nbsp;
+</p>
+
+<h2>
   My Social Links:
 </h2>
 <p>
