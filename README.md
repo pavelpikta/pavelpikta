@@ -3,7 +3,7 @@
 </h2>
 
 <p>
-  A Systems Engineer from Grodno, Belarus.
+  A DevOps Engineer at EPAM Systems from Grodno, Belarus.
 
   A member and contributor of [@lean-delivery](https://github.com/lean-delivery) organization
 </p>
