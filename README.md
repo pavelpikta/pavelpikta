@@ -3,9 +3,21 @@
 </h2>
 
 <p>
-  A DevOps Engineer at EPAM Systems from Grodno, Belarus.
-
-  A member and contributor of [@lean-delivery](https://github.com/lean-delivery) organization
+  
+  - DevOps Engineer with more than 4 years of IT experience
+  
+  - Good knowledge and hands-on experience in: Infrastructure as Code(Terraform), Configuration Management(Ansible), CI/CD(Jenkins, Gitlab CI), public/private clouds (AWS), scripting (Bash, Groovy), Containers (Docker), Logs management (ELK Stack), Bug tracking systems (Jira), Wiki (Confluence, GitLab Pages), Monitoring (New Relic)
+  
+  - Practical experience with AWS; Proven practical development and implementation experience with focus on different solutions in AWS Cloud
+  
+  - Experienced and responsible for supporting development teams in various aspects of SDLC,
+  focused on designing, implementing, maintaining and evolving cloud infrastructures (AWS) using Infrastructure as Code tools and technologies
+ 
+  - Strong analytical, troubleshooting, problem-solving skills
+  
+  - Key business domains: Software Development, E-commerce
+  
+  - Member and contributor of [@lean-delivery](https://github.com/lean-delivery) organization
 </p>
 
 <h2>
