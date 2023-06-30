@@ -94,6 +94,6 @@
   My GitHub Stats:
 </h2>
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=pavelpikta&count_private=true&show_icons=true&theme=dracula&line_height=30">
+  <img src = "https://github-readme-stats-pavelpikta.vercel.app/api?username=pavelpikta&count_private=true&show_icons=true&theme=dracula&line_height=30">
   <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pavelpikta&theme=tokyonight"> -->
 </p>
