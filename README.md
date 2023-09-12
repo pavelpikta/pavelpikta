@@ -4,20 +4,41 @@
 
 <p>
   
-  - DevOps Engineer with more than 4 years of IT experience
+Systems Engineer with more than 4 years of IT experience in the field of DevOps
+
+- Good knowledge and hands-on experience in:
+  - Infrastructure as Code(Terraform)
+  - Configuration Management(Ansible)
+  - CI/CD(Jenkins, Gitlab CI, GitHub Actions)
+  - public/private clouds (AWS)
+  - scripting (Bash, Python, Groovy)
+  - Containers (Docker)
+  - Logs management (ELK Stack, Elastic Cloud Enterprise)
+  - Bug tracking systems (Jira)
+  - Wiki (Confluence, GitLab Pages, GitHub Wiki)
+  - Monitoring (New Relic, Grafana)
+- Practical experience with AWS; Proven practical development and implementation experience with focus on different solutions in AWS Cloud.
+- Experienced and responsible for supporting development teams in various aspects of SDLC, focused on designing, implementing, maintaining and evolving cloud infrastructures (AWS) using Infrastructure as Code tools and technologies.
+- Strong analytical, troubleshooting, problem-solving skills.
+- Key business domains: Software Development, E-commerce.
+- Worked successfully in a multicultural team, able to to work independently as well as in a team.
+
+Abilities:
+
+- Design complex solution to integrate different tools into CI/CD pipelines
+- Integrate complex solutions
+- Setup CI/CD pipelines
+- Setup infrastructure with IaC tools
+- Automate repetitive tasks, software installation, configuration management, and system provisioning with Ansible.
+
+Key achievements:
+
+- Migrated solution from shared AWS account to dedicated AWS accounts
+- Developed ansible roles to provide a framework for fully independent, or interdependent collections of variables, tasks, files, templates, and modules
   
-  - Good knowledge and hands-on experience in: Infrastructure as Code(Terraform), Configuration Management(Ansible), CI/CD(Jenkins, Gitlab CI), public/private clouds (AWS), scripting (Bash, Groovy), Containers (Docker), Logs management (ELK Stack), Bug tracking systems (Jira), Wiki (Confluence, GitLab Pages), Monitoring (New Relic)
+Member and contributor of [@lean-delivery](https://github.com/lean-delivery) organization
   
-  - Practical experience with AWS; Proven practical development and implementation experience with focus on different solutions in AWS Cloud
-  
-  - Experienced and responsible for supporting development teams in various aspects of SDLC,
-  focused on designing, implementing, maintaining and evolving cloud infrastructures (AWS) using Infrastructure as Code tools and technologies
- 
-  - Strong analytical, troubleshooting, problem-solving skills
-  
-  - Key business domains: Software Development, E-commerce
-  
-  - Member and contributor of [@lean-delivery](https://github.com/lean-delivery) organization
+Member and contributor of [@lean-delivery](https://github.com/lean-delivery) organization
 </p>
 
 <h2>
