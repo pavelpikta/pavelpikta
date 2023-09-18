@@ -37,8 +37,7 @@ Key achievements:
 - Developed ansible roles to provide a framework for fully independent, or interdependent collections of variables, tasks, files, templates, and modules
   
 Member and contributor of [@lean-delivery](https://github.com/lean-delivery) organization
-  
-Member and contributor of [@lean-delivery](https://github.com/lean-delivery) organization
+
 </p>
 
 <h2>
