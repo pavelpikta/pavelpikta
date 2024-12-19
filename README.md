@@ -73,6 +73,5 @@ Member and contributor of [@lean-delivery](https://github.com/lean-delivery) org
   GitHub Stats:
 </h2>
 <p>
-  <img src = "https://github-readme-stats-pavelpikta.vercel.app/api?username=pavelpikta&count_private=true&show_icons=true&theme=dracula&line_height=30">
-  <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pavelpikta&theme=tokyonight"> -->
+  <img src = "https://github-readme-stats-pavelpikta.vercel.app/api?username=pavelpikta&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&line_height=30">
 </p>
