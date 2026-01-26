@@ -3,7 +3,6 @@
 </h2>
 
 <p>
-  
 Systems Engineer with more than 4 years of IT experience in the field of DevOps
 
 - Good knowledge and hands-on experience in:
@@ -35,9 +34,8 @@ Key achievements:
 
 - Migrated solution from shared AWS account to dedicated AWS accounts
 - Developed ansible roles to provide a framework for fully independent, or interdependent collections of variables, tasks, files, templates, and modules
-  
-Member and contributor of [@lean-delivery](https://github.com/lean-delivery) organization
 
+Member and contributor of [@lean-delivery](https://github.com/lean-delivery) organization
 </p>
 
 <h2>
@@ -53,8 +51,8 @@ Member and contributor of [@lean-delivery](https://github.com/lean-delivery) org
 <h2>
   Social Links:
 </h2>
-<p>
 
+<p>
   <a href="https://www.linkedin.com/in/pavelpikta/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;&nbsp;
@@ -66,12 +64,14 @@ Member and contributor of [@lean-delivery](https://github.com/lean-delivery) org
   <a href="https://open.spotify.com/user/mus1cboy">
     <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>&nbsp;
-
 </p>
 
 <h2>
   GitHub Stats:
 </h2>
+
+[![committers.top badge](https://user-badge.committers.top/belarus_private/pavelpikta.svg)](https://user-badge.committers.top/belarus_private/pavelpikta)
+
 <p>
-  <img src = "https://github-stats.pavelpikta.com/api?username=pavelpikta&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&line_height=30">
+  <img src="https://github-stats.pavelpikta.com/api?username=pavelpikta&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&line_height=30">
 </p>
