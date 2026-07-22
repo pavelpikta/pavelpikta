@@ -73,5 +73,5 @@ Member and contributor of [@lean-delivery](https://github.com/lean-delivery) org
 [![committers.top badge](https://user-badge.committers.top/belarus_private/pavelpikta.svg)](https://user-badge.committers.top/belarus_private/pavelpikta)
 
 <p>
-  <img src="https://github-stats.pavelpikta.com/api?username=pavelpikta&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&line_height=30">
+  <img src="https://github-stats-extended.vercel.app/api?username=pavelpikta&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dracula">
 </p>
